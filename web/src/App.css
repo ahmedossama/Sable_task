@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+
+}
+
+.header-section {
+  font-size: 1.7em; 
+  margin-left: 5%;
+}
+
+.transaction-section {
+  margin-left: 10%;
+  margin-right: 30%;
+}
+
